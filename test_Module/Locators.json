@@ -1,0 +1,16 @@
+
+{
+
+	"xpath_Animation": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.RelativeLayout/android.widget.ListView/android.widget.TextView[2]\n",
+	"String2": "//android.widget.TextView[@index='6']",
+	"String3": "//android.widget.Button[@text='0']",
+	"String4": "//android.widget.Button[@text='1']",
+	"String5": "//android.widget.Button[@text='2']",
+	"String6": "//android.widget.Button[@text='3']",
+	"String7": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.Button\n",
+	"String8": "//android.widget.TextView[@text='App']",
+	"String9": "//android.widget.TextView[@text='Action Bar']",
+	"String10": "//android.widget.TextView[@text='Display Options']",
+	"String11": "//android.widget.Button[@text='DISPLAY_SHOW_TITLE']",
+	"String12":"//android.widget.TextView[@text='App/Action Bar/Display Options']"
+}

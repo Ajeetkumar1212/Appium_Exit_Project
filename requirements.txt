@@ -1,0 +1,7 @@
+Section ----Desired_Capabilities----
+Setup 1-Android device Name According to your Device Model Name,PlatformVersion,AppPackage,And AppActivity
+Setup 2-Start your Appium server on port 4.7.2.3(LOCALHOST)
+Section ----Android Setup----
+Setup 3-Install APIDEMO.apk App in System
+Section ----Run Commomds----
+pytest -v -s --html=Report.html --self-contained-html test_Module/test_Run.py
